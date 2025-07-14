@@ -1,6 +1,7 @@
 **📄 Reddit User Persona Generator**
-    **This project generates a User Persona from a given Reddit profile by analyzing posts and comments.
-    It outputs a clean .txt file with key communities, vocabulary, and inferred personality traits.**
+
+    This project generates a User Persona from a given Reddit profile by analyzing posts and comments.
+    It outputs a clean .txt file with key communities, vocabulary, and inferred personality traits.
 
 🚀 How It Works :
 

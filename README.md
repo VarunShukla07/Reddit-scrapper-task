@@ -12,12 +12,11 @@
 📂 Project Structure :
 
     ├── outputs/               # Generated files stored here
-    ├── src/                   # Source code
-    │   ├── reddit_scraper.py  # Scrapes Reddit posts/comments via PRAW
-    │   ├── persona_builder.py # Builds persona .txt
+    ├── reddit_scraper.py      # Scrapes Reddit posts/comments via PRAW
+    ├── persona_builder.py     # Builds persona .txt
     ├── run_persona_cli.py     # Main CLI to run everything easily
     ├── requirements.txt       # Dependencies
-    └── README.md               # You're reading this
+    └── README.md              # You're reading this
 
 🔧 Setup Instructions :
 

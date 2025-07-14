@@ -1,14 +1,15 @@
-📄 Reddit User Persona Generator
-    This project generates a User Persona from a given Reddit profile by analyzing posts and comments.
-    It outputs a clean .txt file with key communities, vocabulary, and inferred personality traits.
+**📄 Reddit User Persona Generator**
+    **This project generates a User Persona from a given Reddit profile by analyzing posts and comments.
+    It outputs a clean .txt file with key communities, vocabulary, and inferred personality traits.**
 
 🚀 How It Works :
+
     1️⃣ Scrapes Reddit posts and comments for a given username
     2️⃣ Analyzes the content to build a User Persona
     3️⃣ Outputs a .txt file containing the insights
 
 📂 Project Structure :
-    reddit_user_persona/
+
     ├── outputs/               # Generated files stored here
     ├── src/                   # Source code
     │   ├── reddit_scraper.py  # Scrapes Reddit posts/comments via PRAW
@@ -32,11 +33,12 @@
     3️⃣ Install Requirements
         pip install -r requirements.txt
     
-🛠️ How to Run :
-    Simply run the main CLI file:
-    python3 run_persona_cli.py
+🛠️ How to Run : Simply run the main CLI file:
+    
+        python3 run_persona_cli.py
 
 ✍️ Example CLI Flow : 
+
     =========================================
     🔍 Reddit User Persona Report
     =========================================
@@ -94,6 +96,7 @@
 
 
 Assignment Requirements Checklist :  
+
     ✅Takes Reddit username as input
 
     ✅Scrapes posts and comments
